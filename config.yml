@@ -1,0 +1,86 @@
+select_origin: online
+files_origin: ""
+nodes_origin: ""
+links_origin: ""
+nodes_online: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQavjeQ33ViwoxlbCso67TwEcd5VD5jIDRFKDIYpA9HH6Y5iBA1sZc_nUZ2-K3tRbCwjtjwYE87Ot5g/pub?gid=1314973246&single=true&output=csv"
+links_online: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQavjeQ33ViwoxlbCso67TwEcd5VD5jIDRFKDIYpA9HH6Y5iBA1sZc_nUZ2-K3tRbCwjtjwYE87Ot5g/pub?gid=1319572649&single=true&output=csv"
+images_origin: ""
+export_target: ""
+history: true
+focus_max: 2
+record_types:
+  undefined:
+      fill: "#858585"
+      stroke: "#858585"
+  Personne:
+      fill: "#FF0000"
+      stroke: "#FF0000"
+  Institution:
+      fill: "#00FF00"
+      stroke: "#00FF00"
+  Évènement:
+      fill: "#0000FF"
+      stroke: "#0000FF"
+  Ressource:
+      fill: "#FFFF00"
+      stroke: "#FFFF00"
+  Journalisme:
+      fill: "#00FFFF"
+      stroke: "#00FFFF"
+  Cyber:
+      fill: "#FF00FF"
+      stroke: "#FF00FF"
+  Renseignement:
+      fill: "#C0C0C0"
+      stroke: "#C0C0C0"
+  Veille et formation:
+      fill: "#808080"
+      stroke: "#808080"
+  Université:
+      fill: "#800000"
+      stroke: "#800000"
+  Justice et droits de l'homme:
+      fill: "#008000"
+      stroke: "#008000"
+link_types:
+  undefined:
+    stroke: simple
+    color: "#e1e1e1"
+record_filters: []
+graph_background_color: "#ffffff"
+graph_highlight_color: "#ff6a6a"
+graph_highlight_on_hover: true
+graph_text_size: 10
+graph_arrows: true
+node_size_method: degree
+node_size: 10
+node_size_max: 20
+node_size_min: 2
+attraction_force: 200
+attraction_distance_max: 250
+attraction_vertical: 0
+attraction_horizontal: 0
+views: {}
+chronological_record_meta: created
+record_metas:
+- titre
+- prenom
+- nom
+- titre
+- genre
+- pays
+- genre
+- twitteraccount
+- twitter
+title: "Osintosphère"
+author: "Olivier Le Deuff, Rayya Roumanos"
+description: ""
+keywords: []
+link_symbol: ""
+csl: ""
+bibliography: ""
+csl_locale: ""
+css_custom: ""
+devtools: false
+lang: en
+name: ""
